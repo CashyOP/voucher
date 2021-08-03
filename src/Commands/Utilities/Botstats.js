@@ -44,7 +44,7 @@ module.exports = class extends Command {
 
 		let serverinvite = new MessageButton()
 			.setStyle('url')
-			.setURL(`https://discord.gg/dQPwgPDXjf`)
+			.setURL(``)
 			.setLabel('Support Server');
 
 		let row = new MessageActionRow()
